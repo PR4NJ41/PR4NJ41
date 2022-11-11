@@ -1,6 +1,10 @@
 <html>
 <br />
+<h1 align="center">Hi 👋, I'm Pranjal Rajput</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pr4nj41&label=Profile%20views&color=0e75b6&style=flat" alt="pr4nj41" /> </p>
+<br />
 <p align="center">
   <img src="https://github.com/PR4NJ41/PR4NJ41/blob/main/assets/animation.gif" alt="Hi, I'm Pranjal 👋 I'm a developer" width=77%>
 </p>
@@ -62,11 +66,7 @@
 <br />
 <br />
 
-<h1 align="center">Hi 👋, I'm Pranjal Rajput</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pr4nj41&label=Profile%20views&color=0e75b6&style=flat" alt="pr4nj41" /> </p>
-<br />
 <h3 align="center"><b>Connect with me :</b></h3>
 <p align="center">
 <a href="https://dev.to/pr4nj41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pr4nj41" height="40" width="50" /></a>
