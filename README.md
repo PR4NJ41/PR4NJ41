@@ -84,8 +84,6 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pr4nj41&show_icons=true&locale=en&layout=compact" alt="pr4nj41" />
-    </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pr4nj41&show_icons=true&locale=en" alt="pr4nj41" /></p>
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4nj41&" alt="pr4nj41" /></p>
