@@ -63,7 +63,7 @@
 </p>
 <br/>
 <br />
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4nj41&" alt="pr4nj41" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4nj41&&count_private=true" alt="pr4nj41" /></p>
 <br/>
 
 <h3 align="center"><b>Connect with me :</b></h3>
