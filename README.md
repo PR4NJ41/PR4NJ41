@@ -28,7 +28,7 @@
 
 <p align="center">
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=PR4NJ41&show_icons=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=PR4NJ41&count_private=true&show_icons=true"
     alt="Pranjal's Github Stats" />
 </p>
 </br>
