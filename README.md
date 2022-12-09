@@ -75,3 +75,8 @@
 <a href="https://www.codechef.com/users/coder_pranjal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coder_pranjal" height="30" width="40" /></a>
 </p>
 </HTML>
+<hr>
+<br>
+
+## HacktoberFest 2022 Badges
+[![@pr4nj41's Holopin board](https://holopin.me/pr4nj41)](https://holopin.io/@pr4nj41)
