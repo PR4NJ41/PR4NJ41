@@ -6,7 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pr4nj41&label=Profile%20views&color=0e75b6&style=flat" alt="pr4nj41" /> </p>
 <br />
 <p align="center">
-  <img src="https://github.com/PR4NJ41/PR4NJ41/blob/main/assets/animation.gif" alt="Hi, I'm Pranjal 👋 I'm a developer" width=100%>
+  <img src="https://github.com/PR4NJ41/PR4NJ41/blob/main/files/animation.gif" alt="Hi, I'm Pranjal 👋 I'm a developer" width=100%>
 </p>
 <br />
 
