@@ -10,6 +10,7 @@
 </p>
 <br />
 
+
 <br />
 
 <h3 align="center">🤘 About Me</h3>
@@ -28,9 +29,10 @@
 
 <p align="center">
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=PR4NJ41&count_private=false&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=PR4NJ41&show_icons=true&rank_icon=github&include_all_commits=true"
     alt="Pranjal's Github Stats" />
 </p>
+
 </br>
 <br />
 
