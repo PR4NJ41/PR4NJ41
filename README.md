@@ -37,12 +37,10 @@
 ## HacktoberFest 2022 Badges
 [![@pr4nj41's Holopin board](https://holopin.me/pr4nj41)](https://holopin.io/@pr4nj41)
 
-
 </br>
-<br />
 
-<h2 align="center"><b>💻 Tech Stack</b></h2>
-<br/>
+<h2><b>💻 Tech Stack</b></h2>
+<!-- <br/>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50"/></code>&nbsp;</a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50"/></code>&nbsp;</a>
@@ -58,6 +56,21 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="50"/></code>&nbsp;</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/></code>&nbsp;</a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/></code>&nbsp;</a>
+</p>
+ -->
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
 <p align="center">
