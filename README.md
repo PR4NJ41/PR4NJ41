@@ -13,8 +13,8 @@
 
 <br />
 
-<h3 align="center">🤘 About Me</h3>
-<p align="center">
+## 🤘 About Me
+<p align="justify">
   <samp>
     I am a Developer who is very enthusiastic about learning new
     technologies and exploring them through projects that are useful for
@@ -24,13 +24,10 @@
     hobby is reading Books 📚 and listening to music 🎧
   </samp>
 </p>
-  
-
----
 
 <br>
 
-<h3 align="center">🔥 My Stats</h3>
+## 🔥 My Stats
 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=PR4NJ41&count_private=true&show_icons=true&theme=react&rank_icon=github&include_all_commits=true" />  <img width="425" src="https://streak-stats.demolab.com/?user=PR4NJ41&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=PR4NJ41&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
