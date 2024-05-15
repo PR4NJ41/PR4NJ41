@@ -102,7 +102,7 @@
 <p align="center">
   
   <!-- <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=PR4NJ41&textBg=false&descAlign=75&fontAlign=50&animation=twinkling&fontSize=20"/>-->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&descAlign=86&descAlignY=73"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=99&color=gradient&section=footer&descAlign=59&descAlignY=61"/>
   
 </p>
 
