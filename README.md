@@ -27,16 +27,22 @@
   
 <br /><br />
 
----
 <br>
 
-### 🔥 My Stats 
+<h3 align="center">🔥 My Stats</h3>
+
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=PR4NJ41&count_private=true&show_icons=true&theme=react&rank_icon=github&include_all_commits=true" />  <img width="425" src="https://streak-stats.demolab.com/?user=PR4NJ41&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=PR4NJ41&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
 <br>
 
---- 
+---
+
+<br>
+
+## HacktoberFest 2022 Badges
+[![@pr4nj41's Holopin board](https://holopin.me/pr4nj41)](https://holopin.io/@pr4nj41)
+
 
 </br>
 <br />
@@ -86,7 +92,3 @@
 <a href="https://www.codechef.com/users/coder_pranjal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coder_pranjal" height="30" width="40" /></a>
 </p>
 </HTML>
-<hr>
-
-## HacktoberFest 2022 Badges
-[![@pr4nj41's Holopin board](https://holopin.me/pr4nj41)](https://holopin.io/@pr4nj41)
