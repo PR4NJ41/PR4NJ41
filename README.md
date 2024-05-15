@@ -27,11 +27,16 @@
   
 <br /><br />
 
-<p align="center">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=PR4NJ41&show_icons=true&rank_icon=github&include_all_commits=true"
-    alt="Pranjal's Github Stats" />
-</p>
+---
+<br>
+
+### 🔥 My Stats 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=PR4NJ41&count_private=true&show_icons=true&theme=react&rank_icon=github&include_all_commits=true" />  <img width="425" src="https://streak-stats.demolab.com/?user=PR4NJ41&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=PR4NJ41&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
+<br>
+
+--- 
 
 </br>
 <br />
@@ -65,8 +70,6 @@
 </p>
 <br/>
 <br />
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pr4nj41&&count_private=true" alt="pr4nj41" /></p>
-<br/>
 
 <h3 align="center"><b>Connect with me :</b></h3>
 <p align="center">
@@ -84,7 +87,6 @@
 </p>
 </HTML>
 <hr>
-<br>
 
 ## HacktoberFest 2022 Badges
 [![@pr4nj41's Holopin board](https://holopin.me/pr4nj41)](https://holopin.io/@pr4nj41)
